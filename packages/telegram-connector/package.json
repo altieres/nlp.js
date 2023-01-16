@@ -1,0 +1,31 @@
+{
+  "name": "@nlpjs/telegram-connector",
+  "version": "4.26.1",
+  "description": "Telegram Connector",
+  "author": {
+    "name": "Altieres"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-group/nlp.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axa-group/nlp.js/issues"
+  },
+  "maintainers": [
+    {
+      "name": "Altieres"
+    }
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@nlpjs/connector": "^4.26.1",
+    "@nlpjs/core": "^4.26.1",
+    "telegraf": "^4.11.2"
+  },
+  "gitHead": "cc4249fa994c58d220e6f10a6c94fdad05df32fd"
+}
